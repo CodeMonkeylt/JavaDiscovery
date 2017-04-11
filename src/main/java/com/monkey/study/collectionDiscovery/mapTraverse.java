@@ -5,6 +5,7 @@ import java.util.Map;
 
 import org.apache.log4j.Logger;
 
+
 public class mapTraverse {
 	public Logger logger = Logger.getLogger(mapTraverse.class);
 		public static void main(String[] args) {

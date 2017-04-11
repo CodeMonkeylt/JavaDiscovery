@@ -1,4 +1,4 @@
-package com.monkey.study.enumDiscovery;
+﻿package com.monkey.study.enumDiscovery;
 
 import java.util.EnumMap;
 import java.util.EnumSet;
@@ -24,8 +24,7 @@ public class enumDemoTest {
 		 enumDemo eDemo = enumDemo.SUN;
 		 switch (eDemo) {
 				case MON:
-					System.out.println("哈哈,今天是周一");
-					break;
+					System.out.println("今天是星期一");
 				case SUN:
 					System.out.println("哈哈,今天是周日");
 					break;
